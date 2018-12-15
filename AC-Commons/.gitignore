@@ -1,4 +1,4 @@
 build/
 /build
-/network
-network/
+*.7z
+*.zip
