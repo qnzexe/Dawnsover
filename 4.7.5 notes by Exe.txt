@@ -1,0 +1,43 @@
+4.7.5 modified NPC Ids by Exe
+
+------------------------------------------
+
+// Rifts into PvP: \\
+
+
+Small Rift: 205437
+
+Medium Rift: 701044
+
+Big 3D Rift: 700137
+
+Big 2D Rift: 700138
+
+Abyss Gate: 700141
+
+Abyss Gate Big: 700551
+
+Waikiki Statue: 701871
+
+---------------------
+
+PvP Zone Rift: 701044
+
+X: 448.44946 Y: 2646.5964 Z: 146.06953 H: 100 
+X: 359.66068 Y: 350.75305 Z: 274.03476 H: 75
+
+<npc_template npc_id="701044" level="1" name="Dimensional Rift" name_id="371834" name_desc="IDF4Re_Drana_Exit" height="2.0" 
+rank="DISCIPLINED" rating="NORMAL" tribe="FIELD_OBJECT_ALL" type="GENERAL" ui_type="GENERAL_NO_MARKER" ai="pvpteleport" adelay="2000" hpgauge="3">
+<stats maxHp="172" maxXp="106" main_hand_attack="20" main_hand_accuracy="187" pdef="100" power="23" evasion="187" accuracy="93"/>
+<bound_radius front="0.5" side="0.7" upper="2.0"/>
+<talk_info distance="5" delay="3"/>
+
+--------------------
+
+Custom PvE Instances:
+
+SWB:
+
+2 ppl def
+1 sin part (2 bosses)
+3 ppl outside (1 cannon 2 tower etc)

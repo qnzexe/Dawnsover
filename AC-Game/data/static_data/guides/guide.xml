@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guides xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="guide.xsd">
+    <!-- Asmodians -->
+    <guide title="level65_asmo" level="65" race="ASMODIANS" rewardCount="11">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings! You may not know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo got some utilities for you to start your Journey, Jang! <BR>
+            Daeva got no choice but to accept Shugos present! <BR>
+            Maybe some day Shugo will see you, Daeva. <BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang! <BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Hmm, seems strong enough.</select>
+        <survey itemId="162001038" count="100"/>   <!-- Instant Pots -->
+        <survey itemId="162001037" count="100"/>   <!-- HoT Pots -->
+        <survey itemId="162000023" count="100"/>   <!-- Dispel Pots -->
+        <survey itemId="162000136" count="25"/>    <!-- Abyss Pots -->
+        <survey itemId="164002116" count="20"/>    <!-- Running -->
+        <survey itemId="164002120" count="20"/>    <!-- Crit Spell -->
+        <survey itemId="164002119" count="20"/>    <!-- Crit Strike -->
+        <survey itemId="164002117" count="20"/>    <!-- Atkspeed -->
+        <survey itemId="164002118" count="20"/>    <!-- Castspeed -->
+        <survey itemId="169000011" count="10000"/> <!-- Powershards -->
+        <survey itemId="169610346" count="1"/>     <!-- Future Veille Challenger -->     
+    </guide>
+     <guide title="level65_ely" level="65" race="ELYOS" rewardCount="11">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings! You may not know Shugo, and i guess you never will, Jang Jang!<BR>
+            Shugo got some utilities for you to continue your Journey, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            Maybe some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Hmm, seems strong enough.</select>
+        <survey itemId="162001038" count="100"/>   <!-- Instant Pots -->
+        <survey itemId="162001037" count="100"/>   <!-- HoT Pots -->
+        <survey itemId="162000023" count="100"/>   <!-- Dispel Pots -->
+        <survey itemId="162000136" count="25"/>    <!-- Abyss Pots -->
+        <survey itemId="164002116" count="20"/>    <!-- Running -->
+        <survey itemId="164002120" count="20"/>    <!-- Crit Spell -->
+        <survey itemId="164002119" count="20"/>    <!-- Crit Strike -->
+        <survey itemId="164002117" count="20"/>    <!-- Atkspeed -->
+        <survey itemId="164002118" count="20"/>    <!-- Castspeed -->
+        <survey itemId="169000011" count="10000"/> <!-- Powershards -->
+        <survey itemId="169610345" count="1"/>     <!-- Future Mastarius Challenger -->          
+    </guide>
+     <guide title="level65_all_manastone" level="65" race="PC_ALL" rewardCount="12">
+        <message>
+            <![CDATA[<BR><BR>
+            You again! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo got some Manastones for you to use on your Armor, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            Who knows, maybe some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>You again, huh.</select>
+        <survey itemId="167000518" count="36"/>   <!-- Atk -->
+        <survey itemId="167000520" count="36"/>   <!-- Parry -->
+        <survey itemId="167000553" count="36"/>   <!-- Accu -->
+        <survey itemId="167000558" count="36"/>    <!-- Crit -->
+        <survey itemId="167000560" count="36"/>    <!-- Macc -->
+        <survey itemId="167000551" count="36"/>    <!-- Hp -->
+        <survey itemId="167000521" count="36"/>    <!-- Block -->
+        <survey itemId="167000554" count="36"/>    <!-- Evasion -->
+        <survey itemId="167000519" count="36"/>    <!-- MB -->
+        <survey itemId="167000561" count="36"/> <!-- Mres -->  
+        <survey itemId="167000655" count="36"/>     <!-- Crit HP -->
+        <survey itemId="167000706" count="36"/>     <!-- Macc HP -->     
+    </guide>
+    <guide title="level65_assassin_gear_asmo" level="65" race="ASMODIANS" classType="ASSASSIN" rewardCount="16">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings Daeva! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you got no Armor for my Manastones, Jang!<BR>
+            Shugo knows you picked Assassin! Shugo is afraid of shadows, but not of you,Jang!
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>I'll accept your gift.</select>
+        <survey itemId="110301405" count="1"/>		<!-- Archon Commander's Jerkin -->
+		<survey itemId="111301346" count="1"/>		<!-- Archon Commander's Vambraces -->
+		<survey itemId="112301289" count="1"/>		<!-- Archon Commander's Leather Spaulders -->
+		<survey itemId="113301370" count="1"/>		<!-- Archon Commander's Leather Breeches -->
+		<survey itemId="114301405" count="1"/>		<!-- Archon Commander's Leather Shoes -->
+		<survey itemId="125050057" count="1"/>		<!-- Leather Hat of Heroic Strife -->
+		<survey itemId="120001480" count="2"/>		<!-- War Earrings of Strife -->
+		<survey itemId="121001354" count="1"/>		<!-- War Necklace of Strife -->
+		<survey itemId="122001623" count="2"/>		<!-- War Ring of Strife -->
+		<survey itemId="123001403" count="1"/>		<!-- War Belt of Strife -->
+		<survey itemId="100001511" count="1"/>		<!-- Archon Commander's Sword -->
+		<survey itemId="100201265" count="1"/>		<!-- Archon Commander's Dagger -->
+		<survey itemId="101701155" count="1"/>		<!-- Archon Commander's Bow -->
+		<survey itemId="100001565" count="1"/>		<!-- Scale Sword of the Rune Tribe -->
+		<survey itemId="100201375" count="1"/>		<!-- Dagger of the Rune Tribe -->
+		<survey itemId="101701249" count="1"/>		<!-- Bow of the Rune Tribe -->	
+    </guide>
+    <guide title="level65_ranger_gear_asmo" level="65" race="ASMODIANS" classType="RANGER" rewardCount="12">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings Daeva! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you got no Armor for my Manastones, Jang!<BR>
+            Shugo knows you picked Assassin! Shugo is afraid of shadows, but not of you,Jang!
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>I'll accept your gift.</select>
+        <survey itemId="110301405" count="1"/>		<!-- Archon Commander's Jerkin -->
+		<survey itemId="111301346" count="1"/>		<!-- Archon Commander's Vambraces -->
+		<survey itemId="112301289" count="1"/>		<!-- Archon Commander's Leather Spaulders -->
+		<survey itemId="113301370" count="1"/>		<!-- Archon Commander's Leather Breeches -->
+		<survey itemId="114301405" count="1"/>		<!-- Archon Commander's Leather Shoes -->
+		<survey itemId="125050057" count="1"/>		<!-- Leather Hat of Heroic Strife -->
+		<survey itemId="120001480" count="2"/>		<!-- War Earrings of Strife -->
+		<survey itemId="121001354" count="1"/>		<!-- War Necklace of Strife -->
+		<survey itemId="122001623" count="2"/>		<!-- War Ring of Strife -->
+		<survey itemId="123001403" count="1"/>		<!-- War Belt of Strife -->
+		<survey itemId="101701155" count="2"/>		<!-- Archon Commander's Bow -->
+		<survey itemId="101701249" count="2"/>		<!-- Bow of the Rune Tribe -->
+    </guide>
+        <guide title="level65_gladiator_gear_asmo" level="65" race="ASMODIANS" classType="GLADIATOR" rewardCount="14">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings Daeva! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you got no Armor for my Manastones, Jang!<BR>
+            Shugo knows you picked Assassin! Shugo is afraid of shadows, but not of you,Jang!
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>I'll accept your gift.</select>
+		<survey itemId="110601354" count="1"/>		<!-- Archon Commander's Breastplate -->
+		<survey itemId="111601317" count="1"/>		<!-- Archon Commander's Plate Gauntlets -->
+		<survey itemId="112601297" count="1"/>		<!-- Archon Commander's Shoulderplates -->
+		<survey itemId="113601306" count="1"/>		<!-- Archon Commander's Plate Greaves -->
+		<survey itemId="114601303" count="1"/>		<!-- Archon Commander's Plate Sabatons -->
+		<survey itemId="125003767" count="1"/>		<!-- Plate Helm of Fierce Strife -->
+		<survey itemId="120001480" count="2"/>		<!-- War Earrings of Strife -->
+		<survey itemId="121001354" count="1"/>		<!-- War Necklace of Strife -->
+		<survey itemId="122001623" count="2"/>		<!-- War Ring of Strife -->
+		<survey itemId="123001403" count="1"/>		<!-- War Belt of Strife -->
+		<survey itemId="101301056" count="2"/>		<!-- Archon Commander's Polearm -->
+		<survey itemId="101301144" count="2"/>		<!-- Spear of the Rune Tribe -->
+		<survey itemId="101701155" count="1"/>		<!-- Archon Commander's Bow -->
+		<survey itemId="101701249" count="1"/>		<!-- Bow of the Rune Tribe -->
+    </guide>
+        <guide title="level65_templar_gear_asmo" level="65" race="ASMODIANS" classType="TEMPLAR" rewardCount="16">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings Daeva! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you got no Armor for my Manastones, Jang!<BR>
+            Shugo knows you picked Assassin! Shugo is afraid of shadows, but not of you,Jang!
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>I'll accept your gift.</select>
+		<survey itemId="110601354" count="1"/>		<!-- Archon Commander's Breastplate -->
+		<survey itemId="111601317" count="1"/>		<!-- Archon Commander's Plate Gauntlets -->
+		<survey itemId="112601297" count="1"/>		<!-- Archon Commander's Shoulderplates -->
+		<survey itemId="113601306" count="1"/>		<!-- Archon Commander's Plate Greaves -->
+		<survey itemId="114601303" count="1"/>		<!-- Archon Commander's Plate Sabatons -->
+		<survey itemId="125003767" count="1"/>		<!-- Plate Helm of Fierce Strife -->
+		<survey itemId="120001480" count="2"/>		<!-- War Earrings of Strife -->
+		<survey itemId="121001354" count="1"/>		<!-- War Necklace of Strife -->
+		<survey itemId="122001623" count="2"/>		<!-- War Ring of Strife -->
+		<survey itemId="123001403" count="1"/>		<!-- War Belt of Strife -->
+		<survey itemId="100901217" count="1"/>		<!-- Greatsword of the Rune Tribe -->
+		<survey itemId="100001565" count="1"/>		<!-- Scale Sword of the Rune Tribe -->
+		<survey itemId="115001604" count="1"/>		<!-- Battle Shield of the Rune Tribe -->
+		<survey itemId="100901119" count="1"/>		<!-- Archon Commander's Greatsword -->
+		<survey itemId="100001511" count="1"/>		<!-- Archon Commander's Sword -->
+		<survey itemId="115001474" count="1"/>		<!-- Archon Commander's Battle Shield -->
+    </guide>    
+        <guide title="level65_sorc_gear_asmo" level="65" race="ASMODIANS" classType="SORCERER" rewardCount="14">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings Daeva! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you got no Armor for my Manastones, Jang!<BR>
+            Shugo knows you picked Assassin! Shugo is afraid of shadows, but not of you,Jang!
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>I'll accept your gift.</select>
+		<survey itemId="110101497" count="1"/>		<!-- Archon Commander's Tunic -->
+		<survey itemId="111101351" count="1"/>		<!-- Archon Commander's Cloth Gloves -->
+		<survey itemId="112101308" count="1"/>		<!-- Archon Commander's Pauldrons -->
+		<survey itemId="113101368" count="1"/>		<!-- Archon Commander's Cloth Breeches -->
+		<survey itemId="114101399" count="1"/>		<!-- Archon Commander's Cloth Shoes -->
+		<survey itemId="125003760" count="1"/>		<!-- Cloth Headband of Heroic Strife -->
+		<survey itemId="120001481" count="2"/>		<!-- Magic Earrings of Strife -->
+		<survey itemId="121001355" count="1"/>		<!-- Magic Necklace of Strife -->
+		<survey itemId="122001624" count="2"/>		<!-- Magic Ring of Strife -->
+		<survey itemId="123001404" count="1"/>		<!-- Magic Sash of Strife -->
+		<survey itemId="100601289" count="1"/>		<!-- Magic Tome of the Rune Tribe -->
+		<survey itemId="100501197" count="1"/>		<!-- Rune Tribe Jewel -->
+		<survey itemId="100601167" count="1"/>		<!-- Archon Commander's Spellbook -->
+		<survey itemId="100501111" count="1"/>		<!-- Archon Commander's Orb -->
+    </guide>     
+        <guide title="level65_sm_gear_asmo" level="65" race="ASMODIANS" classType="SPIRIT_MASTER" rewardCount="14">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings Daeva! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you got no Armor for my Manastones, Jang!<BR>
+            Shugo knows you picked Assassin! Shugo is afraid of shadows, but not of you,Jang!
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>I'll accept your gift.</select>
+		<survey itemId="110101497" count="1"/>		<!-- Archon Commander's Tunic -->
+		<survey itemId="111101351" count="1"/>		<!-- Archon Commander's Cloth Gloves -->
+		<survey itemId="112101308" count="1"/>		<!-- Archon Commander's Pauldrons -->
+		<survey itemId="113101368" count="1"/>		<!-- Archon Commander's Cloth Breeches -->
+		<survey itemId="114101399" count="1"/>		<!-- Archon Commander's Cloth Shoes -->
+		<survey itemId="125003760" count="1"/>		<!-- Cloth Headband of Heroic Strife -->
+		<survey itemId="120001481" count="2"/>		<!-- Magic Earrings of Strife -->
+		<survey itemId="121001355" count="1"/>		<!-- Magic Necklace of Strife -->
+		<survey itemId="122001624" count="2"/>		<!-- Magic Ring of Strife -->
+		<survey itemId="123001404" count="1"/>		<!-- Magic Sash of Strife -->
+		<survey itemId="100601289" count="1"/>		<!-- Magic Tome of the Rune Tribe -->
+		<survey itemId="100501197" count="1"/>		<!-- Rune Tribe Jewel -->
+		<survey itemId="100601167" count="1"/>		<!-- Archon Commander's Spellbook -->
+		<survey itemId="100501111" count="1"/>		<!-- Archon Commander's Orb -->
+    </guide>      
+        <guide title="level65_bard_gear_asmo" level="65" race="ASMODIANS" classType="BARD" rewardCount="12">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings Daeva! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you got no Armor for my Manastones, Jang!<BR>
+            Shugo knows you picked Assassin! Shugo is afraid of shadows, but not of you,Jang!
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>I'll accept your gift.</select>
+		<survey itemId="110101497" count="1"/>		<!-- Archon Commander's Tunic -->
+		<survey itemId="111101351" count="1"/>		<!-- Archon Commander's Cloth Gloves -->
+		<survey itemId="112101308" count="1"/>		<!-- Archon Commander's Pauldrons -->
+		<survey itemId="113101368" count="1"/>		<!-- Archon Commander's Cloth Breeches -->
+		<survey itemId="114101399" count="1"/>		<!-- Archon Commander's Cloth Shoes -->
+		<survey itemId="125003760" count="1"/>		<!-- Cloth Headband of Heroic Strife -->
+		<survey itemId="120001481" count="2"/>		<!-- Magic Earrings of Strife -->
+		<survey itemId="121001355" count="1"/>		<!-- Magic Necklace of Strife -->
+		<survey itemId="122001624" count="2"/>		<!-- Magic Ring of Strife -->
+		<survey itemId="123001404" count="1"/>		<!-- Magic Sash of Strife -->
+		<survey itemId="102001187" count="2"/>		<!-- Archon Commander's Stringed Instrument -->
+		<survey itemId="102001060" count="2"/>		<!-- Stringed Instrument of the Rune Tribe -->
+    </guide>     
+        <guide title="level65_chanter_gear_asmo" level="65" race="ASMODIANS" classType="CHANTER" rewardCount="18">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings Daeva! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you got no Armor for my Manastones, Jang!<BR>
+            Shugo knows you picked Assassin! Shugo is afraid of shadows, but not of you,Jang!
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>I'll accept your gift.</select>
+		<survey itemId="110501380" count="1"/>		<!-- Archon Commander's Hauberk -->
+		<survey itemId="111501338" count="1"/>		<!-- Archon Commander's Chain Gauntlets (Attack Speed) -->
+		<survey itemId="111501385" count="1"/>		<!-- Archon Commander's Chain Gauntlets (Cast Speed) -->
+		<survey itemId="112501278" count="1"/>		<!-- Archon Commander's Spaulders -->
+		<survey itemId="113501353" count="1"/>		<!-- Archon Commander's Chain Breeches -->
+		<survey itemId="114501361" count="1"/>		<!-- Archon Commander's Brogans -->
+		<survey itemId="125050059" count="1"/>		<!-- Chain Helm of Heroic Strife (Cleric, AT) -->
+		<survey itemId="125050060" count="1"/>		<!-- Chain Helm of Fierce Strife (Chant) -->
+		<survey itemId="120001480" count="2"/>		<!-- War Earrings of Strife -->
+		<survey itemId="121001354" count="1"/>		<!-- War Necklace of Strife -->
+		<survey itemId="122001623" count="2"/>		<!-- War Ring of Strife -->
+		<survey itemId="123001403" count="1"/>		<!-- War Belt of Strife -->
+		<survey itemId="101501226" count="1"/>		<!-- Staff of the Rune Tribe -->
+		<survey itemId="115001604" count="1"/>		<!-- Battle Shield of the Rune Tribe -->
+		<survey itemId="100101203" count="1"/>		<!-- Warhammer of the Rune Tribe -->
+		<survey itemId="101501137" count="1"/>		<!-- Archon Commander's Staff -->
+		<survey itemId="115001474" count="1"/>		<!-- Archon Commander's Battle Shield -->
+		<survey itemId="100101103" count="1"/>		<!-- Archon Commander's Mace -->			
+    </guide>    
+        <guide title="level65_cleric_gear_asmo" level="65" race="ASMODIANS" classType="CLERIC" rewardCount="18">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings Daeva! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you got no Armor for my Manastones, Jang!<BR>
+            Shugo knows you picked Assassin! Shugo is afraid of shadows, but not of you,Jang!
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>I'll accept your gift.</select>
+		<survey itemId="110501380" count="1"/>		<!-- Archon Commander's Hauberk -->
+		<survey itemId="111501338" count="1"/>		<!-- Archon Commander's Chain Gauntlets (Attack Speed) -->
+		<survey itemId="111501385" count="1"/>		<!-- Archon Commander's Chain Gauntlets (Cast Speed) -->
+		<survey itemId="112501278" count="1"/>		<!-- Archon Commander's Spaulders -->
+		<survey itemId="113501353" count="1"/>		<!-- Archon Commander's Chain Breeches -->
+		<survey itemId="114501361" count="1"/>		<!-- Archon Commander's Brogans -->
+		<survey itemId="125050059" count="1"/>		<!-- Chain Helm of Heroic Strife (Cleric, AT) -->
+		<survey itemId="125050060" count="1"/>		<!-- Chain Helm of Fierce Strife (Chant) -->
+		<survey itemId="120001481" count="2"/>		<!-- Magic Earrings of Strife -->
+		<survey itemId="121001355" count="1"/>		<!-- Magic Necklace of Strife -->
+		<survey itemId="122001624" count="2"/>		<!-- Magic Ring of Strife -->
+		<survey itemId="123001404" count="1"/>		<!-- Magic Sash of Strife -->
+		<survey itemId="101501227" count="1"/>		<!-- Magic Staff of the Rune Tribe -->
+		<survey itemId="115001605" count="1"/>		<!-- Scale Shield of the Rune Tribe -->
+		<survey itemId="100101202" count="1"/>		<!-- Mace of the Rune Tribe -->
+		<survey itemId="101501137" count="1"/>		<!-- Archon Commander's Staff -->
+		<survey itemId="115001474" count="1"/>		<!-- Archon Commander's Battle Shield -->
+		<survey itemId="100101103" count="1"/>		<!-- Archon Commander's Mace -->			
+    </guide> 
+        <guide title="level65_at_gear_asmo" level="65" race="ASMODIANS" classType="RIDER" rewardCount="15">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings Daeva! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you got no Armor for my Manastones, Jang!<BR>
+            Shugo knows you picked Assassin! Shugo is afraid of shadows, but not of you,Jang!
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>I'll accept your gift.</select>
+		<survey itemId="110501380" count="1"/>		<!-- Archon Commander's Hauberk -->
+		<survey itemId="111501338" count="1"/>		<!-- Archon Commander's Chain Gauntlets (Attack Speed) -->
+		<survey itemId="111501385" count="1"/>		<!-- Archon Commander's Chain Gauntlets (Cast Speed) -->
+		<survey itemId="112501278" count="1"/>		<!-- Archon Commander's Spaulders -->
+		<survey itemId="113501353" count="1"/>		<!-- Archon Commander's Chain Breeches -->
+		<survey itemId="114501361" count="1"/>		<!-- Archon Commander's Brogans -->
+		<survey itemId="125050059" count="1"/>		<!-- Chain Helm of Heroic Strife (Cleric, AT) -->
+		<survey itemId="125050060" count="1"/>		<!-- Chain Helm of Fierce Strife (Chant) -->
+		<survey itemId="120001481" count="2"/>		<!-- Magic Earrings of Strife -->
+		<survey itemId="121001355" count="1"/>		<!-- Magic Necklace of Strife -->
+		<survey itemId="122001624" count="2"/>		<!-- Magic Ring of Strife -->
+		<survey itemId="123001404" count="1"/>		<!-- Magic Sash of Strife -->
+		<survey itemId="102100834" count="2"/>		<!-- Aether Key of the Rune Tribe -->	
+		<survey itemId="102100952" count="2"/>		<!-- Archon Commander's Aether Key -->
+		<survey itemId="101800970" count="2"/>		<!-- Archon Commander's Aether Revolver -->		
+    </guide>   
+        <guide title="level65_gunner_gear_asmo" level="65" race="ASMODIANS" classType="GUNNER" rewardCount="15">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings Daeva! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you got no Armor for my Manastones, Jang!<BR>
+            Shugo knows you picked Assassin! Shugo is afraid of shadows, but not of you,Jang!
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>I'll accept your gift.</select>
+		<survey itemId="110301735" count="1"/>		<!-- Archon Executor's Leather Jacket -->
+		<survey itemId="111301673" count="1"/>		<!-- Archon Executor's Leather Gauntlets -->
+		<survey itemId="112301612" count="1"/>		<!-- Archon Executor's Shoulder Straps -->
+		<survey itemId="113301704" count="1"/>		<!-- Archon Executor's Leather Leggings -->
+		<survey itemId="114301741" count="1"/>		<!-- Archon Executor's Leather Footwear -->
+		<survey itemId="125050058" count="1"/>		<!-- Leather Cap of Fierce Strife -->
+		<survey itemId="120001481" count="2"/>		<!-- Magic Earrings of Strife -->
+		<survey itemId="121001355" count="1"/>		<!-- Magic Necklace of Strife -->
+		<survey itemId="122001624" count="2"/>		<!-- Magic Ring of Strife -->
+		<survey itemId="123001404" count="1"/>		<!-- Magic Sash of Strife -->
+		<survey itemId="101801039" count="2"/>		<!-- Magic Aether Revolver of the Rune Tribe -->
+		<survey itemId="101900996" count="1"/>		<!-- Aether Cannon of the Rune Tribe -->
+		<survey itemId="101800970" count="2"/>		<!-- Archon Commander's Aether Revolver -->
+		<survey itemId="101900957" count="1"/>		<!-- Archon Commander's Aether Cannon -->
+    </guide>      
+    <!-- Assassin -->
+    <guide title="level65_assassin_stigma_asmo" level="65" race="ASMODIANS" classType="ASSASSIN" rewardCount="30">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000850" count="1"/>   <!-- Ambush -->
+        <survey itemId="140000784" count="1"/>   <!-- Sigil -->
+        <survey itemId="140000077" count="1"/>   <!-- Flurry -->
+        <survey itemId="140000078" count="1"/>   <!-- Aethertwisting -->
+        <survey itemId="140000781" count="1"/>   <!-- Rune burst -->
+        <survey itemId="140000081" count="1"/>   <!-- Apply Poison -->
+        <survey itemId="140000253" count="1"/>   <!-- OoA -->
+        <survey itemId="140000780" count="1"/>   <!-- Rune Knife -->
+        <survey itemId="140000088" count="1"/>   <!-- Blind -->
+        <survey itemId="140000087" count="1"/>   <!-- Eye of Wrath -->  
+        <survey itemId="140000503" count="1"/>   <!-- Flash of speed -->
+        <survey itemId="140000586" count="1"/>   <!-- Throw Shuriken -->     
+        <survey itemId="140001144" count="1"/>   <!-- Shadowwalk -->   
+        <survey itemId="140000606" count="1"/>   <!-- Shadowfall -->   
+        <survey itemId="140000213" count="1"/>   <!-- Deadly Abandon -->   
+  		<survey itemId="140000200" count="1"/>   <!-- Rune Swipe -->   
+        <survey itemId="140000605" count="1"/>   <!-- Venomous Strike -->   
+        <survey itemId="140000608" count="1"/>   <!-- Slayer -->   
+        <survey itemId="140000608" count="1"/>   <!-- Break Away -->   
+        <survey itemId="140000696" count="1"/>   <!-- Searching -->  
+        <survey itemId="140000776" count="1"/>   <!-- Beastly -->  
+        <survey itemId="140000786" count="1"/>   <!-- Agony -->  
+        <survey itemId="140000596" count="1"/>   <!-- Silence -->  
+        <survey itemId="140000778" count="1"/>   <!-- Agonizing Slash -->  
+        <survey itemId="140000782" count="1"/>   <!-- Explosive Burst -->  
+        <survey itemId="140000779" count="1"/>   <!-- Apply Lethal --> 
+        <survey itemId="140000785" count="1"/>   <!-- Dash and Slash --> 
+        <survey itemId="140000783" count="1"/>   <!-- QD --> 
+        <survey itemId="140000777" count="1"/>   <!-- Lightning Slash --> 
+        <survey itemId="140000400" count="1"/>   <!-- Sensory --> 
+    </guide>
+    <guide title="level65_assassin_stigma_elyos" level="65" race="ELYOS" classType="ASSASSIN" rewardCount="30">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000850" count="1"/>   <!-- Ambush -->
+        <survey itemId="140000784" count="1"/>   <!-- Sigil -->
+        <survey itemId="140000077" count="1"/>   <!-- Flurry -->
+        <survey itemId="140000078" count="1"/>   <!-- Aethertwisting -->
+        <survey itemId="140000781" count="1"/>   <!-- Rune burst -->
+        <survey itemId="140000081" count="1"/>   <!-- Apply Poison -->
+        <survey itemId="140000253" count="1"/>   <!-- OoA -->
+        <survey itemId="140000780" count="1"/>   <!-- Rune Knife -->
+        <survey itemId="140000088" count="1"/>   <!-- Blind -->
+        <survey itemId="140000087" count="1"/>   <!-- Eye of Wrath -->  
+        <survey itemId="140000503" count="1"/>   <!-- Flash of speed -->
+        <survey itemId="140000586" count="1"/>   <!-- Throw Shuriken -->     
+        <survey itemId="140001144" count="1"/>   <!-- Shadowwalk -->   
+        <survey itemId="140000606" count="1"/>   <!-- Shadowfall -->   
+        <survey itemId="140000213" count="1"/>   <!-- Deadly Abandon -->   
+ 		<survey itemId="140000199" count="1"/>   <!-- Divine Rune -->   
+        <survey itemId="140000605" count="1"/>   <!-- Venomous Strike -->   
+        <survey itemId="140000607" count="1"/>   <!-- Slayer -->   
+        <survey itemId="140000608" count="1"/>   <!-- Break Away -->   
+        <survey itemId="140000696" count="1"/>   <!-- Searching -->  
+        <survey itemId="140000776" count="1"/>   <!-- Beastly -->  
+        <survey itemId="140000786" count="1"/>   <!-- Agony -->  
+        <survey itemId="140000596" count="1"/>   <!-- Silence -->  
+        <survey itemId="140000778" count="1"/>   <!-- Agonizing Slash -->  
+        <survey itemId="140000782" count="1"/>   <!-- Explosive Burst -->  
+        <survey itemId="140000779" count="1"/>   <!-- Apply Lethal --> 
+        <survey itemId="140000785" count="1"/>   <!-- Dash and Slash --> 
+        <survey itemId="140000783" count="1"/>   <!-- QD --> 
+        <survey itemId="140000777" count="1"/>   <!-- Lightning Slash --> 
+        <survey itemId="140000400" count="1"/>   <!-- Sensory --> 
+    </guide>
+    <!-- Ranger -->
+    <guide title="level65_ranger_stigma_asmo" level="65" race="ASMODIANS" classType="RANGER" rewardCount="30">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000048" count="1"/>   <!-- Sleep Arrow -->
+        <survey itemId="140000754" count="1"/>   <!-- Arrow Deluge -->
+        <survey itemId="140000578" count="1"/>   <!-- Silence Arrow -->
+        <survey itemId="140000049" count="1"/>   <!-- Retreating -->
+        <survey itemId="140000239" count="1"/>   <!-- Bow of Blessing -->
+        <survey itemId="140000764" count="1"/>   <!-- Snare Trap -->
+        <survey itemId="140000853" count="1"/>   <!-- Trap of Slowing -->
+        <survey itemId="140000057" count="1"/>   <!-- Trap of Clairvoyance -->
+        <survey itemId="140000770" count="1"/>   <!-- Skybound trap -->
+        <survey itemId="140000063" count="1"/>   <!-- Sniper Stance -->  
+        <survey itemId="140000570" count="1"/>   <!-- Breath of Nature -->
+        <survey itemId="140000195" count="1"/>   <!-- Bestial Fury -->     
+        <survey itemId="140000069" count="1"/>   <!-- Focused Shots -->   
+        <survey itemId="140000502" count="1"/>   <!-- Keen -->   
+        <survey itemId="140000074" count="1"/>   <!-- Natures Resolve -->   
+  		<survey itemId="140000582" count="1"/>   <!-- Call Gryphu -->   
+        <survey itemId="140000197" count="1"/>   <!-- Deadly Arrow -->   
+        <survey itemId="140000694" count="1"/>   <!-- Dilation -->   
+        <survey itemId="140000702" count="1"/>   <!-- Feint -->   
+        <survey itemId="140000585" count="1"/>   <!-- Misery shot -->  
+        <survey itemId="140000761" count="1"/>   <!-- Gale Arrow -->  
+        <survey itemId="140000772" count="1"/>   <!-- Heart Shot -->  
+        <survey itemId="140000768" count="1"/>   <!-- Lightning Arrow -->  
+        <survey itemId="140000245" count="1"/>   <!-- Speed of wind -->  
+        <survey itemId="140000767" count="1"/>   <!-- Blazing trap -->  
+        <survey itemId="140000762" count="1"/>   <!-- Explosive Arrow --> 
+        <survey itemId="140000771" count="1"/>   <!-- Lethal Arrow --> 
+        <survey itemId="140000765" count="1"/>   <!-- Agonizing Arrow --> 
+        <survey itemId="140000247" count="1"/>   <!-- Hunters might --> 
+        <survey itemId="140000368" count="1"/>   <!-- Sharpen Arrows --> 
+    </guide>
+    <guide title="level65_ranger_stigma_ely" level="65" race="ELYOS" classType="RANGER" rewardCount="30">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000048" count="1"/>   <!-- Sleep Arrow -->
+        <survey itemId="140000754" count="1"/>   <!-- Arrow Deluge -->
+        <survey itemId="140000578" count="1"/>   <!-- Silence Arrow -->
+        <survey itemId="140000049" count="1"/>   <!-- Retreating -->
+        <survey itemId="140000239" count="1"/>   <!-- Bow of Blessing -->
+        <survey itemId="140000763" count="1"/>   <!-- Snare Trap -->
+        <survey itemId="140000852" count="1"/>   <!-- Trap of Slowing -->
+        <survey itemId="140000056" count="1"/>   <!-- Trap of Clairvoyance -->
+        <survey itemId="140000770" count="1"/>   <!-- Skybound trap -->
+        <survey itemId="140000063" count="1"/>   <!-- Sniper Stance -->  
+        <survey itemId="140000570" count="1"/>   <!-- Breath of Nature -->
+        <survey itemId="140000195" count="1"/>   <!-- Bestial Fury -->     
+        <survey itemId="140000069" count="1"/>   <!-- Focused Shots -->   
+        <survey itemId="140000502" count="1"/>   <!-- Keen -->   
+        <survey itemId="140000074" count="1"/>   <!-- Natures Resolve -->   
+  		<survey itemId="140000581" count="1"/>   <!-- Call Gryphu -->   
+        <survey itemId="140000196" count="1"/>   <!-- Holy Arrow -->   
+        <survey itemId="140000694" count="1"/>   <!-- Dilation -->   
+        <survey itemId="140000702" count="1"/>   <!-- Feint -->   
+        <survey itemId="140000585" count="1"/>   <!-- Misery shot -->  
+        <survey itemId="140000761" count="1"/>   <!-- Gale Arrow -->  
+        <survey itemId="140000772" count="1"/>   <!-- Heart Shot -->  
+        <survey itemId="140000768" count="1"/>   <!-- Lightning Arrow -->  
+        <survey itemId="140000245" count="1"/>   <!-- Speed of wind -->  
+        <survey itemId="140000766" count="1"/>   <!-- Blazing trap -->  
+        <survey itemId="140000762" count="1"/>   <!-- Explosive Arrow --> 
+        <survey itemId="140000771" count="1"/>   <!-- Lethal Arrow --> 
+        <survey itemId="140000765" count="1"/>   <!-- Agonizing Arrow --> 
+        <survey itemId="140000247" count="1"/>   <!-- Hunters might --> 
+        <survey itemId="140000368" count="1"/>   <!-- Sharpen Arrows --> 
+    </guide>
+    <!-- Templar -->
+     <guide title="level65_templar_stigma_asmo" level="65" race="ASMODIANS" classType="TEMPLAR" rewardCount="30">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000027" count="1"/>   <!-- Divine fury -->
+        <survey itemId="140000373" count="1"/>   <!-- Holy shield -->
+        <survey itemId="140000028" count="1"/>   <!-- Doom lure -->
+        <survey itemId="140000807" count="1"/>   <!-- Provoking -->
+        <survey itemId="140000820" count="1"/>   <!-- Punishment -->
+        <survey itemId="140000821" count="1"/>   <!-- Incite -->
+        <survey itemId="140000819" count="1"/>   <!-- Break power -->
+        <survey itemId="140000016" count="1"/>   <!-- UD -->
+        <survey itemId="140000559" count="1"/>   <!-- BG -->
+        <survey itemId="140000825" count="1"/>   <!-- Inquisitor -->  
+        <survey itemId="140000715" count="1"/>   <!-- Sieger breaker -->
+        <survey itemId="140000814" count="1"/>   <!-- Power of restoration -->     
+        <survey itemId="140000192" count="1"/>   <!-- Aether armor -->   
+        <survey itemId="140000044" count="1"/>   <!-- Terrible howl -->   
+        <survey itemId="140000813" count="1"/>   <!-- Punishment of darkness -->   
+  		<survey itemId="140000558" count="1"/>   <!-- Barricade of steel -->   
+        <survey itemId="140000562" count="1"/>   <!-- Stubborn Spirit -->   
+        <survey itemId="140000563" count="1"/>   <!-- Illusion Chains -->   
+        <survey itemId="140000706" count="1"/>   <!-- Sacrifice -->   
+        <survey itemId="140000693" count="1"/>   <!-- Punishing Thrust -->  
+        <survey itemId="140000818" count="1"/>   <!-- Divine Justice -->  
+        <survey itemId="140000238" count="1"/>   <!-- Empyrean fury -->  
+        <survey itemId="140000824" count="1"/>   <!-- Shield bust -->  
+        <survey itemId="140000817" count="1"/>   <!-- Magic smash -->  
+        <survey itemId="140000823" count="1"/>   <!-- Punishing Wave -->  
+        <survey itemId="140000815" count="1"/>   <!-- Prayer of Victory --> 
+        <survey itemId="140000816" count="1"/>   <!-- Prayer of Resilience --> 
+        <survey itemId="140000237" count="1"/>   <!-- Shield of Faith --> 
+        <survey itemId="140000822" count="1"/>   <!-- Threatening taunt --> 
+        <survey itemId="140000354" count="1"/>   <!-- Providence -->         
+    </guide>
+         <guide title="level65_templar_stigma_ely" level="65" race="ELYOS" classType="TEMPLAR" rewardCount="30">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000027" count="1"/>   <!-- Divine fury -->
+        <survey itemId="140000373" count="1"/>   <!-- Holy shield -->
+        <survey itemId="140000028" count="1"/>   <!-- Doom lure -->
+        <survey itemId="140000807" count="1"/>   <!-- Provoking -->
+        <survey itemId="140000820" count="1"/>   <!-- Punishment -->
+        <survey itemId="140000821" count="1"/>   <!-- Incite -->
+        <survey itemId="140000819" count="1"/>   <!-- Break power -->
+        <survey itemId="140000016" count="1"/>   <!-- UD -->
+        <survey itemId="140000559" count="1"/>   <!-- BG -->
+        <survey itemId="140000825" count="1"/>   <!-- Inquisitor -->  
+        <survey itemId="140000715" count="1"/>   <!-- Sieger breaker -->
+        <survey itemId="140000814" count="1"/>   <!-- Power of restoration -->     
+        <survey itemId="140000192" count="1"/>   <!-- Aether armor -->   
+        <survey itemId="140000044" count="1"/>   <!-- Terrible howl -->   
+        <survey itemId="140000812" count="1"/>   <!-- Punishment of Light -->   
+  		<survey itemId="140000558" count="1"/>   <!-- Barricade of steel -->   
+        <survey itemId="140000562" count="1"/>   <!-- Stubborn Spirit -->   
+        <survey itemId="140000563" count="1"/>   <!-- Illusion Chains -->   
+        <survey itemId="140000706" count="1"/>   <!-- Sacrifice -->   
+        <survey itemId="140000693" count="1"/>   <!-- Punishing Thrust -->  
+        <survey itemId="140000818" count="1"/>   <!-- Divine Justice -->  
+        <survey itemId="140000238" count="1"/>   <!-- Empyrean fury -->  
+        <survey itemId="140000824" count="1"/>   <!-- Shield bust -->  
+        <survey itemId="140000817" count="1"/>   <!-- Magic smash -->  
+        <survey itemId="140000823" count="1"/>   <!-- Punishing Wave -->  
+        <survey itemId="140000815" count="1"/>   <!-- Prayer of Victory --> 
+        <survey itemId="140000816" count="1"/>   <!-- Prayer of Resilience --> 
+        <survey itemId="140000237" count="1"/>   <!-- Shield of Faith --> 
+        <survey itemId="140000822" count="1"/>   <!-- Threatening taunt --> 
+        <survey itemId="140000354" count="1"/>   <!-- Providence --> 
+    </guide>
+    <!-- Gladiator -->
+    <guide title="level65_gladiator_stigma_asmo" level="65" race="ASMODIANS" classType="GLADIATOR" rewardCount="31">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000008" count="1"/>   <!-- Improved Stamina -->
+        <survey itemId="140000007" count="1"/>   <!-- DW -->
+        <survey itemId="140000709" count="1"/>   <!-- Crippling -->
+        <survey itemId="140000716" count="1"/>   <!-- Weakening -->
+        <survey itemId="140000011" count="1"/>   <!-- Ankle -->
+        <survey itemId="140000713" count="1"/>   <!-- Vengeful -->
+        <survey itemId="140000707" count="1"/>   <!-- Lockdown -->
+        <survey itemId="140000016" count="1"/>   <!-- UD -->
+        <survey itemId="140000530" count="1"/>   <!-- Howl -->
+        <survey itemId="140000530" count="1"/>   <!-- Dauntless -->  
+        <survey itemId="140000715" count="1"/>   <!-- Sieger breaker -->
+        <survey itemId="140000724" count="1"/>   <!-- Absorbing -->     
+        <survey itemId="140000719" count="1"/>   <!-- Earthquake -->   
+        <survey itemId="140000723" count="1"/>   <!-- Draining -->   
+        <survey itemId="140000023" count="1"/>   <!-- Slaughter -->   
+  		<survey itemId="140000714" count="1"/>   <!-- Piercing -->   
+        <survey itemId="140000394" count="1"/>   <!-- Second wind -->   
+        <survey itemId="140000539" count="1"/>   <!-- Spin block -->   
+        <survey itemId="140000540" count="1"/>   <!-- Exhausting Wave -->   
+        <survey itemId="140000691" count="1"/>   <!-- Fetterwine -->  
+        <survey itemId="140000705" count="1"/>   <!-- Magical -->  
+        <survey itemId="140000720" count="1"/>   <!-- Severe Precision -->  
+        <survey itemId="140000688" count="1"/>   <!-- Precision -->  
+        <survey itemId="140000222" count="1"/>   <!-- Berserking -->  
+        <survey itemId="140000712" count="1"/>   <!-- Tendon -->  
+        <survey itemId="140000718" count="1"/>   <!-- Sure strike --> 
+        <survey itemId="140000710" count="1"/>   <!-- Spite Strike --> 
+        <survey itemId="140000535" count="1"/>   <!-- Vicious --> 
+        <survey itemId="140000717" count="1"/>   <!-- Sharp strike --> 
+        <survey itemId="140000722" count="1"/>   <!-- Whirling -->
+        <survey itemId="140000726" count="1"/>   <!-- Draining Sword -->
+    </guide>
+    <guide title="level65_gladiator_stigma_ely" level="65" race="ELYOS" classType="GLADIATOR" rewardCount="31">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000008" count="1"/>   <!-- Improved Stamina -->
+        <survey itemId="140000007" count="1"/>   <!-- DW -->
+        <survey itemId="140000709" count="1"/>   <!-- Crippling -->
+        <survey itemId="140000716" count="1"/>   <!-- Weakening -->
+        <survey itemId="140000011" count="1"/>   <!-- Ankle -->
+        <survey itemId="140000713" count="1"/>   <!-- Vengeful -->
+        <survey itemId="140000707" count="1"/>   <!-- Lockdown -->
+        <survey itemId="140000016" count="1"/>   <!-- UD -->
+        <survey itemId="140000530" count="1"/>   <!-- Howl -->
+        <survey itemId="140000530" count="1"/>   <!-- Dauntless -->  
+        <survey itemId="140000715" count="1"/>   <!-- Sieger breaker -->
+        <survey itemId="140000724" count="1"/>   <!-- Absorbing -->     
+        <survey itemId="140000719" count="1"/>   <!-- Earthquake -->   
+        <survey itemId="140000723" count="1"/>   <!-- Draining -->   
+        <survey itemId="140000023" count="1"/>   <!-- Slaughter -->   
+  		<survey itemId="140001001" count="1"/>   <!-- Piercing -->   
+        <survey itemId="140000394" count="1"/>   <!-- Second wind -->   
+        <survey itemId="140000539" count="1"/>   <!-- Spin block -->   
+        <survey itemId="140000540" count="1"/>   <!-- Exhausting Wave -->   
+        <survey itemId="140000691" count="1"/>   <!-- Fetterwine -->  
+        <survey itemId="140000705" count="1"/>   <!-- Magical -->  
+        <survey itemId="140000720" count="1"/>   <!-- Severe Precision -->  
+        <survey itemId="140000688" count="1"/>   <!-- Precision -->  
+        <survey itemId="140000222" count="1"/>   <!-- Berserking -->  
+        <survey itemId="140000712" count="1"/>   <!-- Tendon -->  
+        <survey itemId="140000718" count="1"/>   <!-- Sure strike --> 
+        <survey itemId="140000710" count="1"/>   <!-- Spite Strike --> 
+        <survey itemId="140000535" count="1"/>   <!-- Vicious --> 
+        <survey itemId="140000717" count="1"/>   <!-- Sharp strike --> 
+        <survey itemId="140000722" count="1"/>   <!-- Whirling -->
+        <survey itemId="140000726" count="1"/>   <!-- Draining Sword --> 
+    </guide>
+	<!-- Chanter -->
+	<guide title="level65_chanter_stigma_asmo" level="65" race="ASMODIANS" classType="CHANTER" rewardCount="29">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000787" count="1"/>   <!-- Healing Conduit -->
+        <survey itemId="140000112" count="1"/>   <!-- Ragespell -->
+        <survey itemId="140000800" count="1"/>   <!-- Protective Ward -->
+        <survey itemId="140000788" count="1"/>   <!-- Promise -->
+        <survey itemId="140000116" count="1"/>   <!-- WoP -->
+        <survey itemId="140000117" count="1"/>   <!-- Binding word -->
+        <survey itemId="140000801" count="1"/>   <!-- Word of life -->
+        <survey itemId="140000123" count="1"/>   <!-- WoI -->
+        <survey itemId="140000802" count="1"/>   <!-- Splash -->
+        <survey itemId="140000506" count="1"/>   <!-- Soul lock -->  
+        <survey itemId="140000125" count="1"/>   <!-- Enhancement Mantra -->
+        <survey itemId="140000125" count="1"/>   <!-- Recovery Spell -->     
+        <survey itemId="140000652" count="1"/>   <!-- Soul Crush -->   
+        <survey itemId="140000794" count="1"/>   <!-- Curtain of Aether -->   
+        <survey itemId="140000654" count="1"/>   <!-- Rise -->   
+  		<survey itemId="140000653" count="1"/>   <!-- Hit Mantra -->   
+        <survey itemId="140000655" count="1"/>   <!-- Annihilation -->   
+        <survey itemId="140000854" count="1"/>   <!-- Acceleration -->   
+        <survey itemId="140000700" count="1"/>   <!-- Leaping flash -->   
+        <survey itemId="140000798" count="1"/>   <!-- Magic recovery -->  
+        <survey itemId="140000282" count="1"/>   <!-- Blessing -->  
+        <survey itemId="140000805" count="1"/>   <!-- Healing burst -->  
+        <survey itemId="140000286" count="1"/>   <!-- Invincibility -->  
+        <survey itemId="140000803" count="1"/>   <!-- Elemental Screen -->  
+        <survey itemId="140000797" count="1"/>   <!-- Stamina -->  
+        <survey itemId="140000799" count="1"/>   <!-- Blessing of Wind --> 
+        <survey itemId="140000856" count="1"/>   <!-- Mountain Crash --> 
+        <survey itemId="140000806" count="1"/>   <!-- Disorienting --> 
+        <survey itemId="140000804" count="1"/>   <!-- Numbing --> 
+    </guide>
+    <guide title="level65_chanter_stigma_ely" level="65" race="ELYOS" classType="CHANTER" rewardCount="29"> 
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000787" count="1"/>   <!-- Healing Conduit -->
+        <survey itemId="140000112" count="1"/>   <!-- Ragespell -->
+        <survey itemId="140000800" count="1"/>   <!-- Protective Ward -->
+        <survey itemId="140000788" count="1"/>   <!-- Promise -->
+        <survey itemId="140000116" count="1"/>   <!-- WoP -->
+        <survey itemId="140000117" count="1"/>   <!-- Binding word -->
+        <survey itemId="140000801" count="1"/>   <!-- Word of life -->
+        <survey itemId="140000123" count="1"/>   <!-- WoI -->
+        <survey itemId="140000802" count="1"/>   <!-- Splash -->
+        <survey itemId="140000506" count="1"/>   <!-- Soul lock -->  
+        <survey itemId="140000125" count="1"/>   <!-- Enhancement Mantra -->
+        <survey itemId="140000125" count="1"/>   <!-- Recovery Spell -->     
+        <survey itemId="140000652" count="1"/>   <!-- Soul Crush -->   
+        <survey itemId="140000793" count="1"/>   <!-- Divine Curtain -->   
+        <survey itemId="140000654" count="1"/>   <!-- Rise -->   
+  		<survey itemId="140000653" count="1"/>   <!-- Hit Mantra -->   
+        <survey itemId="140000655" count="1"/>   <!-- Annihilation -->   
+        <survey itemId="140000854" count="1"/>   <!-- Acceleration -->   
+        <survey itemId="140000700" count="1"/>   <!-- Leaping flash -->   
+        <survey itemId="140000798" count="1"/>   <!-- Magic recovery -->  
+        <survey itemId="140000282" count="1"/>   <!-- Blessing -->  
+        <survey itemId="140000805" count="1"/>   <!-- Healing burst -->  
+        <survey itemId="140000286" count="1"/>   <!-- Invincibility -->  
+        <survey itemId="140000803" count="1"/>   <!-- Elemental Screen -->  
+        <survey itemId="140000797" count="1"/>   <!-- Stamina -->  
+        <survey itemId="140000799" count="1"/>   <!-- Blessing of Wind --> 
+        <survey itemId="140000856" count="1"/>   <!-- Mountain Crash --> 
+        <survey itemId="140000806" count="1"/>   <!-- Disorienting --> 
+        <survey itemId="140000804" count="1"/>   <!-- Numbing --> 
+    </guide>
+    <!-- Cleric -->
+    <guide title="level65_cleric_stigma_asmo" level="65" race="ASMODIANS" classType="CLERIC" rewardCount="28">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000088" count="1"/>   <!-- Blinding -->
+        <survey itemId="140000098" count="1"/>   <!-- Grace -->
+        <survey itemId="140000842" count="1"/>   <!-- Saving -->
+        <survey itemId="140000504" count="1"/>   <!-- Noble -->
+        <survey itemId="140000826" count="1"/>   <!-- Flash of Recovery -->
+        <survey itemId="140000101" count="1"/>   <!-- Festering -->
+        <survey itemId="140000841" count="1"/>   <!-- Earths Wrath -->
+        <survey itemId="140000102" count="1"/>   <!-- Reverse Condition -->
+        <survey itemId="140000104" count="1"/>   <!-- Sage -->
+        <survey itemId="140000840" count="1"/>   <!-- Splendor -->  
+        <survey itemId="140000108" count="1"/>   <!-- AoE Dispel -->
+        <survey itemId="140000836" count="1"/>   <!-- Stability -->     
+        <survey itemId="140000627" count="1"/>   <!-- Symphatetic -->   
+        <survey itemId="140000832" count="1"/>   <!-- Marchutans -->   
+        <survey itemId="140000631" count="1"/>   <!-- Punishing earth -->   
+  		<survey itemId="140000633" count="1"/>   <!-- Sacrificial -->   
+        <survey itemId="140000704" count="1"/>   <!-- Sprint -->   
+        <survey itemId="140000699" count="1"/>   <!-- Lighting -->   
+        <survey itemId="140000838" count="1"/>   <!-- Chain of Suffering -->   
+        <survey itemId="140000269" count="1"/>   <!-- Hand -->  
+        <survey itemId="140000269" count="1"/>   <!-- Enfeebling -->  
+        <survey itemId="140000848" count="1"/>   <!-- Noble Energy -->  
+        <survey itemId="140000846" count="1"/>   <!-- Call lightning -->  
+        <survey itemId="140000803" count="1"/>   <!-- Benevolence -->  
+        <survey itemId="140000844" count="1"/>   <!-- Healing Energy -->  
+        <survey itemId="140000849" count="1"/>   <!-- Ripple --> 
+        <survey itemId="140000839" count="1"/>   <!-- Shatter Memory --> 
+        <survey itemId="140000837" count="1"/>   <!-- Rebirth --> 
+    </guide>
+    <guide title="level65_cleric_stigma_ely" level="65" race="ELYOS" classType="CLERIC" rewardCount="28">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000088" count="1"/>   <!-- Blinding -->
+        <survey itemId="140000098" count="1"/>   <!-- Grace -->
+        <survey itemId="140000842" count="1"/>   <!-- Saving -->
+        <survey itemId="140000504" count="1"/>   <!-- Noble -->
+        <survey itemId="140000826" count="1"/>   <!-- Flash of Recovery -->
+        <survey itemId="140000101" count="1"/>   <!-- Festering -->
+        <survey itemId="140000841" count="1"/>   <!-- Earths Wrath -->
+        <survey itemId="140000102" count="1"/>   <!-- Reverse Condition -->
+        <survey itemId="140000104" count="1"/>   <!-- Sage -->
+        <survey itemId="140000840" count="1"/>   <!-- Splendor -->  
+        <survey itemId="140000108" count="1"/>   <!-- AoE Dispel -->
+        <survey itemId="140000836" count="1"/>   <!-- Stability -->     
+        <survey itemId="140000627" count="1"/>   <!-- Symphatetic -->   
+        <survey itemId="140000831" count="1"/>   <!-- Yustiels -->   
+        <survey itemId="140000631" count="1"/>   <!-- Punishing earth -->   
+  		<survey itemId="140000633" count="1"/>   <!-- Sacrificial -->   
+        <survey itemId="140000704" count="1"/>   <!-- Sprint -->   
+        <survey itemId="140000699" count="1"/>   <!-- Lighting -->   
+        <survey itemId="140000838" count="1"/>   <!-- Chain of Suffering -->   
+        <survey itemId="140000269" count="1"/>   <!-- Hand -->  
+        <survey itemId="140000269" count="1"/>   <!-- Enfeebling -->  
+        <survey itemId="140000847" count="1"/>   <!-- Noble Energy -->  
+        <survey itemId="140000846" count="1"/>   <!-- Call lightning -->  
+        <survey itemId="140000803" count="1"/>   <!-- Benevolence -->  
+        <survey itemId="140000843" count="1"/>   <!-- Healing Servant -->  
+        <survey itemId="140000849" count="1"/>   <!-- Ripple --> 
+        <survey itemId="140000839" count="1"/>   <!-- Shatter Memory --> 
+        <survey itemId="140000837" count="1"/>   <!-- Rebirth --> 
+    </guide>
+	<!-- Gunner -->
+    <guide title="level65_gunner_stigma_all" level="65" race="PC_ALL" classType="GUNNER" rewardCount="20">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140001252" count="1"/>   <!-- Stopping -->
+        <survey itemId="140000950" count="1"/>   <!-- Natures -->
+        <survey itemId="140000980" count="1"/>   <!-- Quieting -->
+        <survey itemId="140000940" count="1"/>   <!-- Frozen -->
+        <survey itemId="140000933" count="1"/>   <!-- Blazing -->
+        <survey itemId="140000959" count="1"/>   <!-- Power Grab -->
+        <survey itemId="140000920" count="1"/>   <!-- Sighting -->
+        <survey itemId="140000967" count="1"/>   <!-- Stable Stance -->
+        <survey itemId="140000986" count="1"/>   <!-- Instinct -->
+        <survey itemId="140000981" count="1"/>   <!-- Missile -->  
+        <survey itemId="140000981" count="1"/>   <!-- Fiery -->
+        <survey itemId="140000919" count="1"/>   <!-- Juggernaut -->     
+        <survey itemId="140000973" count="1"/>   <!-- Shock and Awe -->   
+        <survey itemId="140000912" count="1"/>   <!-- Paralysis -->   
+        <survey itemId="140000912" count="1"/>   <!-- Shellshock -->   
+  		<survey itemId="140001000" count="1"/>   <!-- Hemorrhage -->   
+        <survey itemId="140000966" count="1"/>   <!-- Steady -->   
+        <survey itemId="140000926" count="1"/>   <!-- Pressurized -->   
+        <survey itemId="140000928" count="1"/>   <!-- Autoload -->   
+        <survey itemId="140000985" count="1"/>   <!-- Dazzling -->  
+    </guide>
+    <guide title="level65_aethertech_stigma_all" level="65" race="PC_ALL" classType="RIDER" rewardCount="20">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140001010" count="1"/>   <!-- Life support -->
+        <survey itemId="140001002" count="1"/>   <!-- Nullification -->
+        <survey itemId="140001017" count="1"/>   <!-- Drillbore -->
+        <survey itemId="140001023" count="1"/>   <!-- Riplash -->
+        <survey itemId="140001028" count="1"/>   <!-- Recharge -->
+        <survey itemId="140001033" count="1"/>   <!-- Steel storm -->
+        <survey itemId="140001035" count="1"/>   <!-- Aimbot -->
+        <survey itemId="140001037" count="1"/>   <!-- Gattling -->
+        <survey itemId="140001039" count="1"/>   <!-- Aether Recharge -->
+        <survey itemId="140001038" count="1"/>   <!-- Leeching steel -->  
+        <survey itemId="140001075" count="1"/>   <!-- Debilitating -->
+        <survey itemId="140001078" count="1"/>   <!-- Mobility -->     
+        <survey itemId="140001084" count="1"/>   <!-- Convulsion -->   
+        <survey itemId="140001089" count="1"/>   <!-- Trauma -->   
+        <survey itemId="140001096" count="1"/>   <!-- Kinetic -->   
+  		<survey itemId="140001046" count="1"/>   <!-- Particle -->   
+        <survey itemId="140001053" count="1"/>   <!-- Stability Thrusters -->   
+        <survey itemId="140001059" count="1"/>   <!-- Rain of Knuckles -->   
+        <survey itemId="140001064" count="1"/>   <!-- Aethercharged Steel -->   
+        <survey itemId="140001068" count="1"/>   <!-- Meteor -->  
+    </guide>
+	<!-- Bard -->
+    <guide title="level65_bard_stigma_all" level="65" race="PC_ALL" classType="BARD" rewardCount="19">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000859" count="1"/>   <!-- Freestyle -->
+        <survey itemId="140000883" count="1"/>   <!-- Soothing Hymn -->
+        <survey itemId="140001100" count="1"/>   <!-- Resonant Hymn -->
+        <survey itemId="140000897" count="1"/>   <!-- Hymn of Rejuvenation -->
+        <survey itemId="140000898" count="1"/>   <!-- Cherubim -->
+        <survey itemId="140000878" count="1"/>   <!-- Half-Stop -->
+        <survey itemId="140000863" count="1"/>   <!-- Composers -->
+        <survey itemId="140000872" count="1"/>   <!-- Stinging -->
+        <survey itemId="140000906" count="1"/>   <!-- Ode to Friendship -->
+        <survey itemId="140000858" count="1"/>   <!-- Mvt. 1 -->  
+        <survey itemId="140000868" count="1"/>   <!-- Mvt. 2 --> 
+        <survey itemId="140000873" count="1"/>   <!-- Mvt. 3 -->              
+        <survey itemId="140000862" count="1"/>   <!-- Mvt. 4 -->
+        <survey itemId="140000860" count="1"/>   <!-- Exultation -->   
+        <survey itemId="140000867" count="1"/>   <!-- Chorus -->   
+  		<survey itemId="140000890" count="1"/>   <!-- Paean -->   
+        <survey itemId="140000861" count="1"/>   <!-- Impassion -->   
+        <survey itemId="140000857" count="1"/>   <!-- Staggered -->   
+        <survey itemId="140000877" count="1"/>   <!-- Treble -->   
+    </guide>
+	<!-- Sorc -->
+    <guide title="level65_sorc_stigma_asmo" level="65" race="ASMODIANS" classType="SORCERER" rewardCount="28">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000131" count="1"/>   <!-- Lumiels -->
+        <survey itemId="140000130" count="1"/>   <!-- Curse of Roots -->
+        <survey itemId="140000733" count="1"/>   <!-- Ice Sheet -->
+        <survey itemId="140000135" count="1"/>   <!-- Zikesl -->
+        <survey itemId="140000736" count="1"/>   <!-- Curse of Weakness -->
+        <survey itemId="140000662" count="1"/>   <!-- Fire Burst -->
+        <survey itemId="140000729" count="1"/>   <!-- Wind cut down -->
+        <survey itemId="140000139" count="1"/>   <!-- Vaizels -->
+        <survey itemId="140000512" count="1"/>   <!-- Whirlwind -->
+        <survey itemId="140000142" count="1"/>   <!-- Boon -->  
+        <survey itemId="140000144" count="1"/>   <!-- Barrier -->
+        <survey itemId="140000851" count="1"/>   <!-- Ice Harpoon -->     
+        <survey itemId="140000738" count="1"/>   <!-- Lava Tempest -->   
+        <survey itemId="140000390" count="1"/>   <!-- Exchange Vitality -->   
+        <survey itemId="140000669" count="1"/>   <!-- Absolute Zero -->   
+  		<survey itemId="140000670" count="1"/>   <!-- Storm Strike -->   
+        <survey itemId="140000855" count="1"/>   <!-- Wake up -->   
+        <survey itemId="140000692" count="1"/>   <!-- Somnolence -->   
+        <survey itemId="140000742" count="1"/>   <!-- Illusion Storm -->   
+        <survey itemId="140000291" count="1"/>   <!-- Illusion -->  
+        <survey itemId="140001179" count="1"/>   <!-- Elemental Ward -->  
+        <survey itemId="140000295" count="1"/>   <!-- Sleeping Storm -->  
+        <survey itemId="140000731" count="1"/>   <!-- Wintry -->  
+        <survey itemId="140000735" count="1"/>   <!-- Glacial -->  
+        <survey itemId="140000737" count="1"/>   <!-- Summon Rock -->  
+        <survey itemId="140000728" count="1"/>   <!-- Arcane --> 
+        <survey itemId="140000741" count="1"/>   <!-- Flame Spray --> 
+        <survey itemId="140000293" count="1"/>   <!-- Supplication of Focus --> 
+    </guide>
+    <guide title="level65_sorc_stigma_ely" level="65" race="ELYOS" classType="SORCERER" rewardCount="28">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000131" count="1"/>   <!-- Lumiels -->
+        <survey itemId="140000130" count="1"/>   <!-- Curse of Roots -->
+        <survey itemId="140000732" count="1"/>   <!-- Ice Sheet -->
+        <survey itemId="140000135" count="1"/>   <!-- Zikesl -->
+        <survey itemId="140000736" count="1"/>   <!-- Curse of Weakness -->
+        <survey itemId="140000662" count="1"/>   <!-- Fire Burst -->
+        <survey itemId="140000729" count="1"/>   <!-- Wind cut down -->
+        <survey itemId="140000139" count="1"/>   <!-- Vaizels -->
+        <survey itemId="140000512" count="1"/>   <!-- Whirlwind -->
+        <survey itemId="140000141" count="1"/>   <!-- Boon -->  
+        <survey itemId="140000144" count="1"/>   <!-- Barrier -->
+        <survey itemId="140000851" count="1"/>   <!-- Ice Harpoon -->     
+        <survey itemId="140000739" count="1"/>   <!-- Big Magma -->   
+        <survey itemId="140000390" count="1"/>   <!-- Exchange Vitality -->   
+        <survey itemId="140000669" count="1"/>   <!-- Absolute Zero -->   
+  		<survey itemId="140000670" count="1"/>   <!-- Storm Strike -->   
+        <survey itemId="140000855" count="1"/>   <!-- Wake up -->   
+        <survey itemId="140000692" count="1"/>   <!-- Somnolence -->   
+        <survey itemId="140000742" count="1"/>   <!-- Illusion Storm -->   
+        <survey itemId="140000291" count="1"/>   <!-- Illusion -->  
+        <survey itemId="140001179" count="1"/>   <!-- Elemental Ward -->  
+        <survey itemId="140000295" count="1"/>   <!-- Sleeping Storm -->  
+        <survey itemId="140000731" count="1"/>   <!-- Wintry -->  
+        <survey itemId="140000735" count="1"/>   <!-- Glacial -->  
+        <survey itemId="140000737" count="1"/>   <!-- Summon Rock -->  
+        <survey itemId="140000728" count="1"/>   <!-- Arcane --> 
+        <survey itemId="140000741" count="1"/>   <!-- Flame Spray --> 
+        <survey itemId="140000293" count="1"/>   <!-- Supplication of Focus --> 
+    </guide>
+	<!-- Spiritmaster -->
+    <guide title="level65_sm_stigma_asmo" level="65" race="ASMODIANS" classType="SPIRIT_MASTER" rewardCount="30">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000148" count="1"/>   <!-- Body Root -->
+        <survey itemId="140000752" count="1"/>   <!-- Absorb Vitality -->
+        <survey itemId="140000149" count="1"/>   <!-- Enmity Swap -->
+        <survey itemId="140000681" count="1"/>   <!-- Ignite Aether -->
+        <survey itemId="140000152" count="1"/>   <!-- Silence -->
+        <survey itemId="140000743" count="1"/>   <!-- Blessing of Fire -->
+        <survey itemId="140000750" count="1"/>   <!-- Weaken Spirit -->
+        <survey itemId="140000156" count="1"/>   <!-- Spirit Wall of Protection -->
+        <survey itemId="140000159" count="1"/>   <!-- Fear Shriek -->
+        <survey itemId="140000677" count="1"/>   <!-- Transference -->  
+        <survey itemId="140000214" count="1"/>   <!-- Hide -->
+        <survey itemId="140000163" count="1"/>   <!-- Spirit Recovery -->     
+        <survey itemId="140000746" count="1"/>   <!-- Cyclone of Wrath -->   
+        <survey itemId="140000167" count="1"/>   <!-- Spirit Substition -->   
+        <survey itemId="140000212" count="1"/>   <!-- Spirit Explosion -->   
+  		<survey itemId="140000685" count="1"/>   <!-- Withering Gloom -->   
+        <survey itemId="140000686" count="1"/>   <!-- Soul Torrent -->   
+        <survey itemId="140000687" count="1"/>   <!-- Sympathetic Mind -->   
+        <survey itemId="140000703" count="1"/>   <!-- Earthen Call -->   
+        <survey itemId="140000701" count="1"/>   <!-- BG -->  
+        <survey itemId="140000303" count="1"/>   <!-- Shackle -->  
+        <survey itemId="140000747" count="1"/>   <!-- Magic Implosion -->  
+        <survey itemId="140000751" count="1"/>   <!-- Infernal Blight -->  
+        <survey itemId="140000753" count="1"/>   <!-- Infernal Pain -->  
+        <survey itemId="140000488" count="1"/>   <!-- Hand of Torpor -->  
+        <survey itemId="140000749" count="1"/>   <!-- Summon Cyclone --> 
+        <survey itemId="140000302" count="1"/>   <!-- Armor Spirit --> 
+        <survey itemId="140000306" count="1"/>   <!-- Ruinous Offense --> 
+        <survey itemId="140000486" count="1"/>   <!-- Healing Spirit --> 
+        <survey itemId="140000493" count="1"/>   <!-- Spirit Hypnosis --> 
+    </guide>
+    <guide title="level65_sm_stigma_ely" level="65" race="ELYOS" classType="SPIRIT_MASTER" rewardCount="30">
+        <message>
+            <![CDATA[<BR><BR>
+            Oh, it's you! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo heard you cannot use some Skills! So Shugo got some fresh Stigmas, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            It's not excluded that some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>Who expected this?</select>
+        <survey itemId="140000148" count="1"/>   <!-- Body Root -->
+        <survey itemId="140000752" count="1"/>   <!-- Absorb Vitality -->
+        <survey itemId="140000149" count="1"/>   <!-- Enmity Swap -->
+        <survey itemId="140000681" count="1"/>   <!-- Ignite Aether -->
+        <survey itemId="140000152" count="1"/>   <!-- Silence -->
+        <survey itemId="140000743" count="1"/>   <!-- Blessing of Fire -->
+        <survey itemId="140000750" count="1"/>   <!-- Weaken Spirit -->
+        <survey itemId="140000156" count="1"/>   <!-- Spirit Wall of Protection -->
+        <survey itemId="140000159" count="1"/>   <!-- Fear Shriek -->
+        <survey itemId="140000677" count="1"/>   <!-- Transference -->  
+        <survey itemId="140000214" count="1"/>   <!-- Hide -->
+        <survey itemId="140000163" count="1"/>   <!-- Spirit Recovery -->     
+        <survey itemId="140000746" count="1"/>   <!-- Cyclone of Wrath -->   
+        <survey itemId="140000167" count="1"/>   <!-- Spirit Substition -->   
+        <survey itemId="140000211" count="1"/>   <!-- Burn to Ashes -->   
+  		<survey itemId="140000685" count="1"/>   <!-- Withering Gloom -->   
+        <survey itemId="140000686" count="1"/>   <!-- Soul Torrent -->   
+        <survey itemId="140000687" count="1"/>   <!-- Sympathetic Mind -->   
+        <survey itemId="140000703" count="1"/>   <!-- Earthen Call -->   
+        <survey itemId="140000701" count="1"/>   <!-- BG -->  
+        <survey itemId="140000303" count="1"/>   <!-- Shackle -->  
+        <survey itemId="140000747" count="1"/>   <!-- Magic Implosion -->  
+        <survey itemId="140000751" count="1"/>   <!-- Infernal Blight -->  
+        <survey itemId="140000753" count="1"/>   <!-- Infernal Pain -->  
+        <survey itemId="140000488" count="1"/>   <!-- Hand of Torpor -->  
+        <survey itemId="140000748" count="1"/>   <!-- Summon Cyclone --> 
+        <survey itemId="140000302" count="1"/>   <!-- Armor Spirit --> 
+        <survey itemId="140000306" count="1"/>   <!-- Ruinous Offense --> 
+        <survey itemId="140000486" count="1"/>   <!-- Healing Spirit --> 
+        <survey itemId="140000493" count="1"/>   <!-- Spirit Hypnosis --> 
+    </guide>    
+    <guide title="level65_all_skin" level="65" race="PC_ALL" rewardCount="1">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings! Yet you don't know Shugo, and maybe you never will, Jang Jang! <BR>
+            Shugo started to like you, so he prepared something special, Jang!<BR>
+            Daeva got no choice but to accept Shugos present, a last time!<BR>
+            Hopefully, Shugo will see you some day, my friend.<BR>
+            So earn glory and wealth, find Shugo and pay for the presents, Jang Jang!<BR>
+            <BR>
+            ~ Your Jakunerk
+            <BR>]]>
+        </message>
+        <select>I'll miss you.</select>
+        <survey itemId="110900385" count="1"/>   <!-- Assassins -->
+        <survey itemId="110900776" count="1"/>   <!-- Classy School Uniform -->
+        <survey itemId="110900637" count="1"/>   <!-- Pretty School Uniform -->
+        <survey itemId="110900197" count="1"/>    <!-- Banded Party Outfit -->
+        <survey itemId="110900731" count="1"/>    <!-- Steampunk -->  
+    </guide>
+   </guides>
+   
+   
+   
