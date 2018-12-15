@@ -1,0 +1,4 @@
+build/
+/build
+*.7z
+*.zip
