@@ -621,8 +621,19 @@ public final class PlayerEnterWorldService {
                     PacketSendUtility.sendMessage(player, "=============================");
                 }
             }
-
-            // Special skill for gm
+            //PLayer Enter World Method by @Towliee :)))))
+            if (player.getLevel()==1 ) {
+            	int maxcubes_quest = 4;
+            	int maxcubes_npc = CustomConfig.NPC_CUBE_EXPANDS_SIZE_LIMIT;
+            	player.setNpcExpands(maxcubes_npc);
+            	player.setQuestExpands(maxcubes_quest);
+            	long maxexp = 3704748142L;
+            	player.getCommonData().setExp(maxexp);
+            	
+            	
+            	
+            }
+            // Special skill for GM edited by @Towliee :)))))
             if (player.getAccessLevel() >= AdminConfig.COMMAND_SPECIAL_SKILL) {
                 FastList<Integer> gmSkill = FastList.newInstance();
                 gmSkill.add(174);
