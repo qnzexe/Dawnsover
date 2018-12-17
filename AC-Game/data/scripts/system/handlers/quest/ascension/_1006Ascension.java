@@ -61,6 +61,10 @@ import com.aionemu.gameserver.utils.PacketSendUtility;
 import com.aionemu.gameserver.utils.ThreadPoolManager;
 import com.aionemu.gameserver.world.WorldMapInstance;
 import com.aionemu.gameserver.world.zone.ZoneName;
+import com.aionemu.gameserver.model.gameobjects.VisibleObject;
+import com.aionemu.gameserver.model.gameobjects.player.Player;
+import com.aionemu.gameserver.utils.PacketSendUtility;
+import com.aionemu.gameserver.utils.chathandlers.AdminCommand;
 
 /**
  * Talk with Pernos (790001). Go to the island at the center of Cliona Lake
@@ -173,6 +177,7 @@ public class _1006Ascension extends QuestHandler {
                             return setPlayerClass(env, qs, PlayerClass.GLADIATOR);
                         }
                         case SETPRO6: {
+                            player.getSkillList().addSkill(player, 339, 1);
                             return setPlayerClass(env, qs, PlayerClass.TEMPLAR);
                         }
                         case SETPRO7: {

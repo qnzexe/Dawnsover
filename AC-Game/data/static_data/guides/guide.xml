@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <guides xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="guide.xsd">
     <!-- Asmodians -->
-    <guide title="level65_asmo" level="65" race="ASMODIANS" rewardCount="11">
+    <guide title="level65_asmo" level="64" race="ASMODIANS" rewardCount="11">
         <message>
             <![CDATA[<BR><BR>
             Greetings! You may not know Shugo, and i guess you never will, Jang Jang! <BR>
@@ -26,7 +26,7 @@
         <survey itemId="169000011" count="10000"/> <!-- Powershards -->
         <survey itemId="169610346" count="1"/>     <!-- Future Veille Challenger -->     
     </guide>
-     <guide title="level65_ely" level="65" race="ELYOS" rewardCount="11">
+     <guide title="level65_ely" level="64" race="ELYOS" rewardCount="11">
         <message>
             <![CDATA[<BR><BR>
             Greetings! You may not know Shugo, and i guess you never will, Jang Jang!<BR>
@@ -51,7 +51,7 @@
         <survey itemId="169000011" count="10000"/> <!-- Powershards -->
         <survey itemId="169610345" count="1"/>     <!-- Future Mastarius Challenger -->          
     </guide>
-     <guide title="level65_all_manastone" level="65" race="PC_ALL" rewardCount="12">
+     <guide title="level65_all_manastone" level="64" race="ELYOS" rewardCount="12">
         <message>
             <![CDATA[<BR><BR>
             You again! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
@@ -74,6 +74,32 @@
         <survey itemId="167000554" count="36"/>    <!-- Evasion -->
         <survey itemId="167000519" count="36"/>    <!-- MB -->
         <survey itemId="167000561" count="36"/> <!-- Mres -->  
+        <survey itemId="167000655" count="36"/>     <!-- Crit HP -->
+        <survey itemId="167000706" count="36"/>     <!-- Macc HP -->     
+    </guide>
+    <guide title="level65_all_manastone" level="64" race="ASMODIANS" rewardCount="12">
+        <message>
+            <![CDATA[<BR><BR>
+            You again! You still don't know Shugo, and i guess you never will, Jang Jang! <BR>
+            Shugo got some Manastones for you to use on your Armor, Jang!<BR>
+            Daeva got no choice but to accept Shugos present!<BR>
+            Who knows, maybe some day Shugo will see you, Daeva.<BR>
+            May you earn glory and wealth.. so you can pay Shugo, Jang Jang!<BR>
+            <BR>
+            ~ Jakunerk
+            <BR>]]>
+        </message>
+        <select>You again, huh.</select>
+        <survey itemId="167000518" count="36"/>     <!-- Atk -->
+        <survey itemId="167000520" count="36"/>     <!-- Parry -->
+        <survey itemId="167000553" count="36"/>     <!-- Accu -->
+        <survey itemId="167000558" count="36"/>     <!-- Crit -->
+        <survey itemId="167000560" count="36"/>     <!-- Macc -->
+        <survey itemId="167000551" count="36"/>     <!-- Hp -->
+        <survey itemId="167000521" count="36"/>     <!-- Block -->
+        <survey itemId="167000554" count="36"/>     <!-- Evasion -->
+        <survey itemId="167000519" count="36"/>     <!-- MB -->
+        <survey itemId="167000561" count="36"/> 	<!-- Mres -->  
         <survey itemId="167000655" count="36"/>     <!-- Crit HP -->
         <survey itemId="167000706" count="36"/>     <!-- Macc HP -->     
     </guide>
@@ -1212,7 +1238,26 @@
         <survey itemId="140000486" count="1"/>   <!-- Healing Spirit --> 
         <survey itemId="140000493" count="1"/>   <!-- Spirit Hypnosis --> 
     </guide>    
-    <guide title="level65_all_skin" level="65" race="PC_ALL" rewardCount="1">
+    <guide title="level65_all_skin" level="65" race="ELYOS" rewardCount="1">
+        <message>
+            <![CDATA[<BR><BR>
+            Greetings! Yet you don't know Shugo, and maybe you never will, Jang Jang! <BR>
+            Shugo started to like you, so he prepared something special, Jang!<BR>
+            Daeva got no choice but to accept Shugos present, a last time!<BR>
+            Hopefully, Shugo will see you some day, my friend.<BR>
+            So earn glory and wealth, find Shugo and pay for the presents, Jang Jang!<BR>
+            <BR>
+            ~ Your Jakunerk
+            <BR>]]>
+        </message>
+        <select>I'll miss you.</select>
+        <survey itemId="110900385" count="1"/>   <!-- Assassins -->
+        <survey itemId="110900776" count="1"/>   <!-- Classy School Uniform -->
+        <survey itemId="110900637" count="1"/>   <!-- Pretty School Uniform -->
+        <survey itemId="110900197" count="1"/>    <!-- Banded Party Outfit -->
+        <survey itemId="110900731" count="1"/>    <!-- Steampunk -->  
+    </guide>
+    <guide title="level65_all_skin" level="64" race="ASMODIANS" rewardCount="1">
         <message>
             <![CDATA[<BR><BR>
             Greetings! Yet you don't know Shugo, and maybe you never will, Jang Jang! <BR>

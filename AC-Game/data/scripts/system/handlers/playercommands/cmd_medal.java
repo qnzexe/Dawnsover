@@ -44,7 +44,7 @@ import com.aionemu.gameserver.utils.i18n.LanguageHandler;
 public class cmd_medal extends PlayerCommand {
 
     public cmd_medal() {
-        super("medal");
+        super("cmdmedal");
     }
 
     @Override
