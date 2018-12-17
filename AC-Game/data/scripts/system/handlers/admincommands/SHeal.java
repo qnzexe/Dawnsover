@@ -41,11 +41,7 @@ public class SHeal extends AdminCommand {
 	  else if (params[0].equals("repose") && player instanceof Player) {
 		 PlayerCommonData pcd = player.getCommonData();
 		 pcd.setCurrentReposteEnergy(pcd.getMaxReposteEnergy());
-		 PacketSendUtility.sendMessage(player, player.getName() + " Reposte Energy has been fully refreshed !");
-		 PacketSendUtility.sendPacket(player,
-				 new SM_STATUPDATE_EXP(pcd.getExpShown(), pcd.getExpRecoverable(), pcd.getExpNeed(), pcd
-				 .getCurrentReposteEnergy(), pcd.getMaxReposteEnergy()));
-	  }
+		 PacketSendUtility.sendMessage(player, player.getName() + " Reposte Energy has been fully refreshed !");}
 	  else {
 		 int hp;
 		 try {
