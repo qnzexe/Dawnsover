@@ -11,7 +11,7 @@ import com.aionemu.gameserver.utils.chathandlers.AdminCommand;
 public class Help extends AdminCommand {
 
 	public Help() {
-		super("help");
+		super("adminhelp");
 	}
 
 	@Override

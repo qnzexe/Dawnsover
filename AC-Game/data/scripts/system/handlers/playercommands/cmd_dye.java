@@ -44,7 +44,7 @@ import com.aionemu.gameserver.utils.chathandlers.PlayerCommand;
 public class cmd_dye extends PlayerCommand {
 
     public cmd_dye() {
-        super("dye");
+        super("cmddye");
     }
 
     @Override

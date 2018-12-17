@@ -41,7 +41,7 @@ import com.aionemu.gameserver.utils.chathandlers.PlayerCommand;
 public class cmd_exchange extends PlayerCommand {
 
     public cmd_exchange() {
-        super("exchange");
+        super("cmdexchange");
     }
 
     @Override
